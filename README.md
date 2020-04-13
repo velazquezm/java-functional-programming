@@ -1,5 +1,8 @@
-# Training Día 1 - Java 8
-Ejericios Java Lambdas
+# Training Day 1 - Java 8
+Exercises  Java Lambdas
+
+The following is a list of exercises, all the methods should be implemented with lambdas. Please create a java class with your first and last name and provide the solutions in that file, put it under the package `com.globant.tp.java`
+
 
 1. Write a method that returns the average of a list of integers.
 ```
